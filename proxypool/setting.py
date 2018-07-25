@@ -1,13 +1,13 @@
 # Redis数据库地址
-REDIS_HOST = '127.0.0.1'
+REDIS_HOST = '66.98.120.35'
 
 # Redis端口
 REDIS_PORT = 6379
 
 # Redis密码，如无填None
-REDIS_PASSWORD = None
+REDIS_PASSWORD = 'L\/ji@@n.199oo&o5'
 
-REDIS_KEY = 'proxies'
+REDIS_KEY = 'Proxies'
 
 # 代理分数
 MAX_SCORE = 100
